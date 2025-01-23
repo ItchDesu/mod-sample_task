@@ -9,6 +9,7 @@ The task is completed by simply walking 50 nodes. Task is reset & initialized at
 
 ## Licensing
 
+- Code: [MIT](LICENSE.txt)
 - Media: See [Media Sources](#Media_Sources)
 
 
